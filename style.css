@@ -1,19 +1,19 @@
 header{ /*classe cabecalho criada no HTML*/
-    background-color: #807392; /*cor do fundo*/
+    background-color: #63698d; /*cor do fundo*/
     color: white; /*cor da fonte*/
 }
 body{ /*fonte utilizada em todo texto da página*/
-    font-family: "Geostar Fill", serif; /*estilo da fonte*/
-    background-color: #6a5d7c;
+    font-family: "Indie Flower", serif; /*estilo da fonte*/
+    background-color: #535979;
 }
 .cabecalho-imagem{ /*classe cabecalho-imagem no HTML*/
-    width: 15%; /*largura da imagem do cabeçalho*/
-    height: 15%;
-    margin: 20px 50px;
-    /*padding: 18px 40px;*/
+    width: 30%; /*largura da imagem do cabeçalho*/
+    height: 30%;
+    margin: 30px 30px;
+    /*padding: 30px 30px;*/
 }
 .cabecalho{ /*classe cabecalho no HTML*/
-    background-color: #383d58; 
+    background-color: #000000; 
     color: white;
     display: flex; /*organiza os elementos lado a lado, só muda de linha se ocupar todo o espaço*/
     justify-content: space-around; /*justifica o conteúdo, space-around=espaço ao redor, cria margens iguais entre os elementos da linha*/
