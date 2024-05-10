@@ -4,7 +4,7 @@ header{ /*classe cabecalho criada no HTML*/
 }
 body{ /*fonte utilizada em todo texto da página*/
     font-family: "Indie Flower", serif; /*estilo da fonte*/
-    background-color: #535979;
+    background-image: linear-gradient(#000000, #3d4157); /*imagem de fundo*/
 }
 .cabecalho-imagem{ /*classe cabecalho-imagem no HTML*/
     width: 30%; /*largura da imagem do cabeçalho*/
@@ -39,7 +39,7 @@ body{ /*fonte utilizada em todo texto da página*/
     margin-left: 10%;
 }
 .escola{ /*classe escola no HTML*/
-    background-image: linear-gradient(#535979, #535979); /*imagem de fundo*/
+    background-image: linear-gradient(#3d4157, #3d4157); /*imagem de fundo*/
     color: white;
     display: flex;
     justify-content: center;
